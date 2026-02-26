@@ -1,0 +1,9 @@
+﻿*.jou
+*.log
+*.str
+*.pb
+.Xil/
+vivado_*.backup.jou
+vivado_*.backup.log
+__pycache__/
+*.pyc
